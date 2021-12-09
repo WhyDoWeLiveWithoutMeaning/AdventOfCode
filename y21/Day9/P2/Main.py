@@ -1,0 +1,1 @@
+data = open("y21\\Day9\\input.txt").read()
