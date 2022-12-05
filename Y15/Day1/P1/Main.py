@@ -1,0 +1,1 @@
+data = open("y15\\Day1\\input.txt", "r").read().splitlines()
